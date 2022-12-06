@@ -1,7 +1,7 @@
 html {
     background-color: green;
     font-family: sans-serif;
-    color:white;
+    color: white;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
 
 .navbar {
-    background-color:red;
+    background-color: red;
 }
 
 .navbar nav ul li {
@@ -36,7 +36,7 @@ body {
 }
 
 .xmas img {
-    width:100%;
+    width: 100%;
     max-height: 4cm;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 .linktree ul li {
-    display:grid;
+    display: grid;
     vertical-align: middle;
     margin: 1%;
 }
@@ -58,5 +58,5 @@ body {
 }
 
 .linktree ul li a:hover {
-    background-color:tomato;
+    background-color: tomato;
 }
