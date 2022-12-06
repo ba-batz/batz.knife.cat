@@ -1,62 +1,62 @@
 html {
-  background-color: green;
-  font-family: sans-serif;
-  color: white;
+    background-color: green;
+    font-family: sans-serif;
+    color: white;
 }
 
 body {
-  margin-top: 0.5%;
-  margin-left: 0.4%;
-  margin-right: 0.4%;
+    margin-top: 0.5%;
+    margin-left: 0.4%;
+    margin-right: 0.4%;
 }
 
 .navbar nav ul {
-  display: inline;
+    display: inline;
 }
 
 .navbar {
-  background-color: red;
+    background-color: red;
 }
 
 .navbar nav ul li {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 0.1% 1%;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0.1% 1%;
 }
 
 .navbar nav ul li a {
-  font-size: larger;
-  font-weight: bolder;
-  text-decoration: none;
-  color: azure;
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: none;
+    color: azure;
 }
 
 .navbar nav ul li a:hover {
-  background-color: sandybrown;
+    background-color: sandybrown;
 }
 
 .xmas img {
-  width: 100%;
-  max-height: 4cm;
+    width: 100%;
+    max-height: 4cm;
 }
 
 .linktree ul {
-  display: inline;
+    display: inline;
 }
 
 .linktree ul li {
-  display: grid;
-  vertical-align: middle;
-  margin: 1%;
+    display: grid;
+    vertical-align: middle;
+    margin: 1%;
 }
 
 .linktree ul li a {
-  font-size: larger;
-  font-weight: bolder;
-  text-decoration: none;
-  color: azure;
+    font-size: larger;
+    font-weight: bolder;
+    text-decoration: none;
+    color: azure;
 }
 
 .linktree ul li a:hover {
-  background-color: tomato;
+    background-color: tomato;
 }
