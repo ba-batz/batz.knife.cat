@@ -60,3 +60,12 @@ body {
 .linktree ul li a:hover {
     background-color: tomato;
 }
+
+.frisch img {
+    width: 51%;
+}
+
+.frisch audio {
+    width: 51%;
+    margin-top: 0px;
+}
