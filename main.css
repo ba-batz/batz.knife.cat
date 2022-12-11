@@ -32,7 +32,7 @@ body {
 }
 
 .navbar nav ul li a:hover {
-    background-color: sandybrown;
+    background-color: mediumvioletred;
 }
 
 .xmas img {
@@ -58,14 +58,13 @@ body {
 }
 
 .linktree ul li a:hover {
-    background-color: tomato;
+    background-color: mediumvioletred;
 }
 
 .frisch img {
-    width: 51%;
+    width: 60%;
 }
 
 .frisch audio {
-    width: 51%;
-    margin-top: 0px;
+    width: 60%;
 }
