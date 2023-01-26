@@ -1,3 +1,7 @@
+::selection {
+    background: #DE3163;
+}
+
 html {
     background-color: #f8f8f8;
     font-family: sans-serif;
@@ -5,34 +9,36 @@ html {
 }
 
 body {
-    margin-top: 0.5%;
-    margin-left: 0.4%;
-    margin-right: 0.4%;
+    margin: 0px 0px;
 }
 
-.navbar nav ul {
-    display: inline;
+.main {
+    margin: 0.5% 1.5%;
 }
 
-.navbar {
+nav {
     background-color: red;
 }
 
-.navbar nav ul li {
-    display: inline-block;
-    vertical-align: middle;
-    margin: 0.1% 1%;
+nav ul {
+    display: inline;
 }
 
-.navbar nav ul li a {
+nav ul li {
+    display: inline;
+    vertical-align: middle;
+    margin-left: 1.5%;
+}
+
+nav ul li a {
     font-size: larger;
     font-weight: bolder;
     text-decoration: none;
     color: #f8f8f8;
 }
 
-.navbar nav ul li a:hover {
-    background-color: firebrick;
+nav ul li a:hover {
+    background-color: #7E191B;
 }
 
 .linktree ul {
@@ -42,24 +48,44 @@ body {
 .linktree ul li {
     display: grid;
     vertical-align: middle;
-    margin: 1%;
+    margin-bottom: 1%;
 }
 
 .linktree ul li a {
-    font-size: larger;
-    font-weight: bolder;
     text-decoration: none;
+    font-size: xx-large;
+    font-weight: bolder;
     color: #1c1c1c;
 }
 
 .linktree ul li a:hover {
-    background-color: firebrick;
+    background-color: #FF033E;
+}
+
+#emanzipation {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 h1 {
-    color: #3D2022;
+    color: #420D09;
 }
 
 h2 {
     color: #3D2022;
+}
+
+#revolution {
+    max-width: 60%;
+    max-height: 60%;
+}
+
+#inovation {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
 }
