@@ -1,7 +1,7 @@
 html {
-    background-color: green;
+    background-color: #f8f8f8;
     font-family: sans-serif;
-    color: white;
+    color: #1c1c1c;
 }
 
 body {
@@ -28,16 +28,11 @@ body {
     font-size: larger;
     font-weight: bolder;
     text-decoration: none;
-    color: azure;
+    color: #f8f8f8;
 }
 
 .navbar nav ul li a:hover {
-    background-color: mediumvioletred;
-}
-
-.xmas img {
-    width: 100%;
-    max-height: 4cm;
+    background-color: firebrick;
 }
 
 .linktree ul {
@@ -54,17 +49,17 @@ body {
     font-size: larger;
     font-weight: bolder;
     text-decoration: none;
-    color: azure;
+    color: #1c1c1c;
 }
 
 .linktree ul li a:hover {
-    background-color: mediumvioletred;
+    background-color: firebrick;
 }
 
-.frisch img {
-    width: 60%;
+h1 {
+    color: #3D2022;
 }
 
-.frisch audio {
-    width: 60%;
+h2 {
+    color: #3D2022;
 }
