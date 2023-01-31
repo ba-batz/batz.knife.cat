@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans &display=swap');
+
+::selection {
+    background: #DE3163;
+}
+
 html {
     background-color: #f8f8f8;
     font-family: 'Fira Sans', sans-serif;
@@ -5,7 +11,7 @@ html {
 }
 
 body {
-    margin: 0px 0px;
+    margin: 0;
 }
 
 img {
@@ -36,11 +42,11 @@ nav ul {
 nav ul li {
     display: inline;
     vertical-align: middle;
-    margin-right: 26px;
+    margin-right: 2%;
 }
 
 nav ul li a {
-    font-size:x-large;
+    font-size: x-large;
     font-weight: bolder;
     text-decoration: none;
     color: #f8f8f8;
@@ -76,12 +82,14 @@ nav ul li a:hover {
 }
 
 #emanzipation {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
 }
 
 #emanzipation img {
-    margin-left: auto;
+    width: 40%;
+    height: 40%;
+    min-width: 140px;
+    min-height: 180px;
 }
 
 #revolution {
@@ -94,9 +102,3 @@ nav ul li a:hover {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
 }
-
-::selection {
-    background: #DE3163;
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap')
