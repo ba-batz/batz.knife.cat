@@ -1,10 +1,6 @@
-::selection {
-    background: #DE3163;
-}
-
 html {
     background-color: #f8f8f8;
-    font-family: sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     color: #1c1c1c;
 }
 
@@ -12,8 +8,21 @@ body {
     margin: 0px 0px;
 }
 
-.main {
-    margin: 0.5% 1.5%;
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1 {
+    color: #420D09;
+}
+
+h2 {
+    color: #3D2022;
+}
+
+h3 {
+    color: #B43757;
 }
 
 nav {
@@ -27,11 +36,11 @@ nav ul {
 nav ul li {
     display: inline;
     vertical-align: middle;
-    margin-left: 1.5%;
+    margin-right: 26px;
 }
 
 nav ul li a {
-    font-size: larger;
+    font-size:x-large;
     font-weight: bolder;
     text-decoration: none;
     color: #f8f8f8;
@@ -39,6 +48,10 @@ nav ul li a {
 
 nav ul li a:hover {
     background-color: #7E191B;
+}
+
+.main {
+    margin: 1.5%
 }
 
 .linktree ul {
@@ -67,25 +80,23 @@ nav ul li a:hover {
     grid-template-columns: 1fr 1fr;
 }
 
-img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-h1 {
-    color: #420D09;
-}
-
-h2 {
-    color: #3D2022;
+#emanzipation img {
+    margin-left: auto;
 }
 
 #revolution {
-    max-width: 60%;
-    max-height: 60%;
+    margin-left: 20%;
+    width: 60%;
+    height: 60%;
 }
 
 #inovation {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
 }
+
+::selection {
+    background: #DE3163;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap')
