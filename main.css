@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    margin: 0;
+    margin: 0px;
 }
 
 img {
@@ -18,19 +18,19 @@ img {
 }
 
 h1 {
-    color: #420D09;
+    color: #7C3030;
 }
 
 h2 {
-    color: #3D2022;
+    color: #FF355E;
 }
 
 h3 {
-    color: #B43757;
+    color: #DA2C43;
 }
 
 nav {
-    background-color: red;
+    background-color: #ED2939;
 }
 
 nav ul {
@@ -40,7 +40,8 @@ nav ul {
 nav ul li {
     display: inline;
     vertical-align: middle;
-    margin-right: 2%;
+    margin-right: 65px;
+    margin-left: -30px;
 }
 
 nav ul li a {
@@ -51,31 +52,69 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #7E191B;
+    background-color: #801818;
 }
 
 .main {
-    margin: 1.5%
+    margin: 1.5%;
 }
 
-.linktree ul {
+.dropbtn {
+    background-color: #ED2939;
+    color: #f8f8f8;
+    font-size: x-large;
+    font-weight: bolder;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f8dcda;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #1c1c1c;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #F88379;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #801818;
+}
+
+#linktree ul {
     display: inline;
 }
 
-.linktree ul li {
+#linktree ul li {
     display: grid;
     vertical-align: middle;
     margin-bottom: 1%;
 }
 
-.linktree ul li a {
+#linktree ul li a {
     text-decoration: none;
     font-size: xx-large;
     font-weight: bolder;
     color: #1c1c1c;
 }
 
-.linktree ul li a:hover {
+#linktree ul li a:hover {
     background-color: #FF033E;
 }
 
