@@ -30,12 +30,6 @@
         }
     }
 
-    img {
-        width: 100%;
-        aspect-ratio: 2 / 1.6;
-        box-shadow: none;
-    }
-
     a {
         text-decoration: none;
 
@@ -47,8 +41,13 @@
             color: #343434;
         }
     }
-}
 
+    img {
+        width: 100%;
+        aspect-ratio: 2 / 1.6;
+        box-shadow: none;
+    }
+}
 
 .card-text {
     margin-left: 1em;
