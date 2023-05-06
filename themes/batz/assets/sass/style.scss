@@ -1,0 +1,40 @@
+::selection {
+    background-color: #DE3163;
+}
+
+html {
+    background-color: white;
+    font-family: 'Fira Sans', sans-serif;
+    color: black;
+}
+
+body {
+    margin: 0.8em 1.5em;
+}
+
+img {
+    max-width: 100%;
+    width: 600px;
+    box-shadow: 4px 4px 12px #0C090A
+}
+
+h1 {
+    color: #FF467E;
+    text-shadow: 2px 2px #f1ddcf;
+}
+
+h2 {
+    color: #6C9BCF;
+    text-shadow: -1px 1px #334257;
+}
+
+h3 {
+    color: #A4D0A4;
+    text-shadow: 1px -1px darkgreen;
+}
+
+#content {
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}

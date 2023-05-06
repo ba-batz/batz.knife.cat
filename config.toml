@@ -1,0 +1,4 @@
+baseURL = 'https://batz.cool'
+languageCode = 'de-de'
+title = 'batzcool'
+theme = 'batz'

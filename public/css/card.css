@@ -1,0 +1,52 @@
+#card-grid {
+    margin-top: 3em;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
+}
+
+.card {
+    width: 90%;
+    aspect-ratio: 5 / 6;
+    border: #262626;
+    position: relative;
+    bottom: 0;
+    transition: 0.3s;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card:hover {
+    box-shadow: 0 8px 24px grey;
+    bottom: 0.5em;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card a h4 b {
+    color: black;
+}
+
+.card:hover a h4 b {
+    color: #FF355E;
+}
+
+.card a p {
+    color: #343434;
+}
+
+.card:hover a p {
+    color: black;
+}
+
+.card img {
+    width: 100%;
+    aspect-ratio: 2 / 1.6;
+    box-shadow: none;
+}
+
+.card-text {
+    margin-left: 1em;
+}
