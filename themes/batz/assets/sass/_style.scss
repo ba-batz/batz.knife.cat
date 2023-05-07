@@ -1,11 +1,11 @@
 ::selection {
-    background-color: #de3163;
+    background-color: $color-select;
 }
 
 html {
-    background-color: white;
+    color: $color-font;
+    background-color: $color-background;
     font-family: 'Fira Sans', sans-serif;
-    color: black;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 img {
     max-width: 100%;
     width: 600px;
-    box-shadow: 4px 4px 12px #0c090a
+    box-shadow: 4px 4px 10px lighten($color: black, $amount: 15)
 }
 
 h1 {
@@ -30,7 +30,7 @@ h2 {
 
 h3 {
     color: #a4d0a4;
-    text-shadow: 1px -1px darkgreen;
+    text-shadow: 1px -1px 1px darkgreen;
 }
 
 #content {

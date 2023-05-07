@@ -1,4 +1,6 @@
-#grid {
+@import 'variables';
+
+#card-grid {
     margin-top: 3em;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
@@ -20,11 +22,11 @@
     }
 
     h4 {
-        color: black;
+        color: $color-font;
     }
 
     p {
-        color: #343434;
+        color: lighten($color: $color-font, $amount: 25);
     }
 
     img {
@@ -38,11 +40,11 @@
         bottom: 0.5em;
 
         h4 {
-            color: #ff355e;
+            color: $color-highlight;
         }
 
         p {
-            color: black;
+            color: $color-highlight;
         }
     }
 
