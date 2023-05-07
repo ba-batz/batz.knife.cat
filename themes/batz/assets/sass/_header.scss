@@ -30,10 +30,8 @@ nav {
             color: black;
         }
     }
-}
 
-@media(max-width: 700px) {
-    nav {
+    @media(max-width: 700px) {
         text-align: center;
 
         li {
@@ -41,7 +39,6 @@ nav {
         }
     }
 }
-
 
 #home-button {
     color: #da2c43;
