@@ -23,9 +23,11 @@
 
     h4 {
         color: $color-font;
+        margin-top: 1em;
     }
 
     p {
+        margin-top: -1em;
         color: lighten($color: $color-font, $amount: 25);
     }
 
@@ -44,11 +46,11 @@
         }
 
         p {
-            color: $color-highlight;
+            color: $color-font;
         }
     }
 
     &__text {
-        margin-left: 1em;
+        margin: 0 1em;
     }
 }

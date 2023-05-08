@@ -3,6 +3,6 @@ title: "Wage es zu wissen!"
 layout: list
 ---
 
-{{< card src="/socialist-waifu.gif" alt="socialist-waifu" name="cool" summary="wowo wtf">}}
+{{< card src="/surplusvalue.jpg" alt="socialist-waifu" name="Get Rich Quick" href="./get-rich-quick/" summary="Wie wird man reich? Kann man überhaupt durch eigene arbeit reich werden?">}}
 
-{{< card src="/socialist-waifu.gif" alt="socialist-waifu" href="./genossinnen/" name="cool" summary="wowo wtf">}}
+{{< card src="/franz-rev.jpg" alt="socialist-waifu" href="./genossinnen/" name="Genoss*sinnen" summary="Emanzipation, Revolution, Innovation. Aber was soll das sein? ">}}
