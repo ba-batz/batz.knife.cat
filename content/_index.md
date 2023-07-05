@@ -3,18 +3,17 @@ title: "*:･ﾟ✧batz☆ﾟ.*･｡ﾟᵕ꒳ᵕ~"
 css: /css/img-right.css
 ---
 
-# Freundschaft Genoss*in!
-
 ![kawai](/freundschaft-waifu.jpg)
 
-## Für Frieden und Sozialismus? Immer bereit!
+# Freundschaft Genoss*in!
+## Für Frieden und Sozialismus - seid bereit!
 
->Mit dieser Begrüßung heiße ich dich Willkommen zu meiner Webpage!  
-Ich würd sagen ich red nicht um den heißen Brei herum und lass dich einfach bissl stöbern und alles entdecken.
+Ich freue mich sehr, dass du dich auf meiner Homepage verlaufen hast. Persönlich empfehle ich dir einfach bissl zu stöbern und selbst alles zu entdecken.
+
 
 ### Was ist batz.cool?
 
-Nagut ich kann dir schon ein wenig erzählen.
+Falls du noch nicht so vertraut bist mit dem Internet:
 - **Batz** ist der Button der dich immer hierher zur Homepage führt!
 - **Gedanken** sind kleine philosphische / politische von mir gemachte Texte,  
 selbstversändlich sind sie gesellschafftskritisch
@@ -23,11 +22,3 @@ als auch andere interessante Websiten gelistet
 - **Willkür** einfach random Zeugs
 
 Also worauf wartest du? Schau ob dir was gefällt!
-
-***
-
-# ***Aktuelles!***
-
----> ***[Warum der Arbeiter\*innenkampftag heute noch wichtig ist](./arbeiterinnenkampftag.html)*** <---
-
-{{< img-float-right src="/socialist-waifu.gif" alt="socialist-waifu" >}}

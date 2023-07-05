@@ -1,13 +1,12 @@
 nav {
-    background-color: $color-background__header;
-    box-shadow: 0 0 0.5em darken($color: $color-background__header, $amount: 45);
+    background-color: $color-header;
     padding-bottom: 0.2em;
     padding-top: 0.2em;
     border-radius: 0.5em;
 
     ul {
         display: inline;
-        color: white;
+        color: $color-font;
     }
 
     li {
@@ -20,13 +19,12 @@ nav {
         text-decoration: none;
         font-size: x-large;
         font-weight: bold;
-        color: lighten($color: $color-font, $amount: 15);
         border-radius: 0.2em;
         padding: 0 0.2em;
         transition: 0.2s;
+        color: $color-h2;
 
         &:hover {
-            background-color: lighten($color: $color-background__header, $amount: 16);
             color: $color-font;
         }
     }
@@ -41,7 +39,7 @@ nav {
 }
 
 #home-button {
-    color: darken($color: $color-highlight, $amount: 15);
+    color: $color-header__home;
     font-weight: 900;
     margin-right: -0.5em;
 
@@ -51,13 +49,13 @@ nav {
 }
 
 #secret {
-    color: lighten($color: $color-background__header, $amount: 15);;
+    color: $color-header;
     font-size: small;
     font-weight: normal;
     float: right;
     margin-right: 1em;
 
     &:hover {
-        background-color: $color-highlight;
+       color: $color-highlight;
     }
 }

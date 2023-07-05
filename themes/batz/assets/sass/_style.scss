@@ -1,5 +1,5 @@
 ::selection {
-    background-color: $color-select;
+    background-color: $color-selection;
 }
 
 html {
@@ -14,23 +14,24 @@ body {
 
 img {
     max-width: 100%;
-    width: 600px;
-    box-shadow: 4px 4px 10px lighten($color: black, $amount: 15)
+    width: 700px;
+    box-shadow: $color-shadow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
-    color: #ff467e;
-    text-shadow: 2px 2px #f1ddcf;
+    color: $color-h1;
+    text-align: center;
 }
 
 h2 {
-    color: #6c9bcf;
-    text-shadow: -1px 1px #334257;
+    color: $color-h2;
 }
 
 h3 {
-    color: #a4d0a4;
-    text-shadow: 1px -1px 1px darkgreen;
+    color: $color-h3;
 }
 
 #content {

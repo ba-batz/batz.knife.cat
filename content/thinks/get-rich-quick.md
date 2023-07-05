@@ -2,11 +2,10 @@
 title: "🏦I like money💰💸🤑"
 date: "May 5, 2023"
 ---
-How to get Rich Online (Fast)?
-==============================
 
-Easy Basics: Wert
------------------
+# How to get Rich Online (Fast)?
+
+## Easy Basics: Wert
 
 Wert entsteht bei der Verrichtung von Arbeit. Trotz des schon beinhaltenden Grundwerts, den ein Rohmaterial in sich trägt, wird durch die Verarbeitung eines solchen zu einem neuen Produkt extra Wert geschaffen. Wenn wir zum Beispiel Eisen nehmen entsteht in jedem Schritt von der Schöpfung bis zur vollendeten Ware immer mehr Wert.
 
@@ -25,8 +24,7 @@ Im Übrigen muss die angewandte Arbeit zweckmäßig oder zielgerichtet sein, um 
 
 Preis hingegen folgt, in unserer kapitalistischen Organisation der Wirtschaft (um genau zu sein, dem Neoliberalismus) den Prinzipien von "Angebot und Nachfrage". Ein sehr schlaues Prinzip, bei dem rare Ressourcen denen zustehen, die sich diese leisten können und nicht jenen, die solche brauchen. Ist zum Beispiel eine Milchknappheit, gelangt Milch in die Hände von reichen Ausbeutern für ihr Müsli, anstatt in die von Kindern, bei welchen sie ihr Wachstum fördern würde.
 
-Geräusch des Geldes
--------------------
+## Geräusch des Geldes
 
 Wenn wir nun also erfahren haben, dass Wert durch Arbeit und Preis durch "Angebot und Nachfrage" bestimmt werden können wir darauf schließen, dass, wenn auch abstrakt, in unserer jetzigen Organisation der Gesellschaft Wert, also Arbeit, durch den Preis repräsentiert wird.
 
@@ -42,10 +40,9 @@ Dadurch bleiben die Kosten für die verkaufte Arbeitskraft niedrig.
 
 Das, was viele Profit nennen, ist in Wirklichkeit Ausbeutung. Wir haben jetzt gelernt, dass Arbeit Wert generiert und dieser in Form von Preis repräsentiert wird. Doch wie erklären wir uns dann Profit? Der Profit einer Firma ist Mehrwert, welcher vom Wert, den die Arbeiter gemeinsam produzieren, weggenommen wird und sich die Firmenbesitzer und die Aktieninhaber in die eigenen Taschen stecken.
 
-![](medien/mehrwert.jpg)
+![Mehrwert](/mehrwert.jpg)
 
-Money, Cash, Zaza!
-------------------
+## Money, Cash, Zaza!
 
 Oke, also der Schlüssel zum Reich werden ist es in eine reiche Familie geboren zu werden und am besten eine Firma zu erben. Wenn man keine Firma erbt, aber viel Geld, sollte man sich einfach Anteile an großen Firmen kaufen, Aktien. Wichtig ist es auf jeden Fall, dass man durch eigene Arbeit nie reich, wie es oft gezeigt wird, werden kann. Das Wichtige ist es andere auszubeuten und die Arbeit anderer auszunutzen.
 

@@ -9,7 +9,6 @@
 .card {
     width: 90%;
     aspect-ratio: 5 / 6;
-    border: #262626;
     position: relative;
     bottom: 0;
     transition: 0.3s;
@@ -19,16 +18,15 @@
 
     a {
         text-decoration: none;
+        color: $color-font;
     }
 
     h4 {
-        color: $color-font;
         margin-top: 1em;
     }
 
     p {
         margin-top: -1em;
-        color: lighten($color: $color-font, $amount: 25);
     }
 
     img {
@@ -38,7 +36,7 @@
     }
 
     &:hover {
-        box-shadow: 0 8px 24px grey;
+        box-shadow: 0 10px 25px $color-shadow;
         bottom: 0.5em;
 
         h4 {
@@ -51,7 +49,7 @@
     }
 
     @media(max-width: 800px) {
-        box-shadow: 0 8px 24px grey;
+        box-shadow: 0 10px 25px $color-shadow;
     }
 
     &__text {
