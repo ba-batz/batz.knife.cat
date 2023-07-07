@@ -15,6 +15,10 @@ nav {
         margin-right: 1em;
     }
 
+    h2 {
+        display: none;
+    }
+
     a {
         text-decoration: none;
         font-size: x-large;
@@ -29,16 +33,19 @@ nav {
         }
     }
 
-    @media(max-width: 800px) {
-        text-align: center;
-
+    @include phone {
         li {
-            display: inline-block;
+            display: none;
+        }
+
+        h2 {
+            font-size: medium;
+            display: inline;
         }
     }
 }
 
-#home-button {
+#button__home {
     color: $color-header__home;
     font-weight: 900;
     margin-right: -0.5em;
@@ -56,6 +63,24 @@ nav {
     margin-right: 1em;
 
     &:hover {
-       color: $color-highlight;
+        color: $color-highlight;
+    }
+
+    @include phone {
+        display: none;
+    }
+}
+
+#button__menu {
+    display: none;
+
+    @include phone {
+        &:checked+label>nav li {
+            display: block;
+        }
+
+        &:checked+label>nav h2 {
+            display: none;
+        }
     }
 }
