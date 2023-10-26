@@ -56,4 +56,6 @@ Sind die Schlauesten am reichsten? Nein, Einstein, Tesla, Hawking und viele weit
 
 ☭ СССР ☭
 
-*Danke Kathi fürs Korrigieren! :)* 
+
+
+*(Danke Kathi fürs Korrigieren! :3)* 

@@ -52,4 +52,6 @@ Wenn wir das schaffen, könnte jeder Mensch einen hohen Lebensstandard genießen
 
 Unser Problem: Es ist heutzutage einfacher, sich den Weltuntergang als das Ende des Kapitalismus vorzustellen! Lasst uns das gemeinsam anpacken und ändern!
 
-*Danke Kathi fürs Korrigieren! :)* 
+
+
+*(Danke Kathi fürs Korrigieren! :3)* 
