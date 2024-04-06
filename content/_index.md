@@ -1,25 +1,18 @@
 ---
 title: "*:･☭✧batz☆Ⓐ.*･｡★ᵕ꒳ᵕ~"
-css: /css/img-right.css
 ---
 
-![kawai](/freundschaft-waifu.jpg)
+![zwei anime mädchen](/freundschaft-genossin.avif)
 
 # Freundschaft Genoss*in!
 ## Für Frieden und Sozialismus - sei bereit!
 
-Ich freue mich sehr, dass du dich auf meiner Homepage verlaufen hast. Persönlich empfehle ich dir einfach bissl zu stöbern und selbst alles zu entdecken.
+Das ist meine Homepage [batz.knife.cat](https://batz.knife.cat). Falls du hierher kommst um zu h8en heiß ich dich herzlich willkommen! Sei einfach offen für neue Ideen und bereit außerhalb des Tellerands zu denken.
 
-### Für Leute die am Handy sind!
-- **EAT THE RICH** ist das Menü, klick drauf!
+Wenn du eine Person bist die sich keine Welt außerhalb des jetzigen Systems vorstellen kann, dann bemitleide ich dich. Aber kopfhoch! Auf dieser Website sind einige Ressourcen, die dir helfen dein kritisches Denken zu erweitern und dir die Möglichkeit geben selbstständig unsere Welt schonungslos in ihre einzelnen komplexen Mechanismen zu zerlegen. 
 
-### Was ist batz.cool?
+### Für Leute die am Handy sind
+**EAT THE RICH** ist das Menü (Vertehst? Wegen essen xD), klick drauf!
 
-Falls du noch nicht so vertraut bist mit dem Internet:
-- **Batz** ist der Button der dich immer hierher zur Homepage führt!
-- **Gedanken** sind kleine philosphische / politische von mir gemachte Texte,  
-selbstversändlich sind sie gesellschafftskritisch
-- **Internetz** da sind interessante Websiten gelistet
-- **Willkür** einfach random Zeugs
-
-Also worauf wartest du? Schau ob dir was gefällt!
+### Worauf warten?
+Der erste Schritt die Welt zu ändern ist es sie zu verstehen. Ich will keineswegs dir dogmatisch vorschreiben wie du die Welt zu verstehen hast, sogar ganz im Gegenteil! Es liegt an dir die rosarote Brille abzulegen und die Dinge so zu nennen wie sie sind. Hinterfrage mich, dich und alles um uns herum!

@@ -40,7 +40,7 @@ Dadurch bleiben die Kosten für die verkaufte Arbeitskraft niedrig.
 
 Das, was viele Profit nennen, ist in Wirklichkeit Ausbeutung. Wir haben jetzt gelernt, dass Arbeit Wert generiert und dieser in Form von Preis repräsentiert wird. Doch wie erklären wir uns dann Profit? Der Profit einer Firma ist Mehrwert, welcher vom Wert, den die Arbeiter gemeinsam produzieren, weggenommen wird und sich die Firmenbesitzer und die Aktieninhaber in die eigenen Taschen stecken.
 
-![Mehrwert](/mehrwert.jpg)
+![Mehrwert](/mehrwert.avif)
 
 ## Money, Cash, Zaza!
 

@@ -10,7 +10,7 @@ date: "May 5, 2023"
 Gehörst du zu den reichsten 1% der Welt? Gehörst du zu den reichsten 1% deines Landes? Bist du Großanleger? Besitzt du mehrere Betriebe? Besitzt du einen größeren Betrieb? Nichts davon? Dann geht es dir wie fast jedem Menschen auf diesem Planeten! Du bist Proletarier, mein:e Freund:in! Die Früchte deiner Arbeit werden dir weggenommen, nur weil die Werkzeuge und Maschinen, mit denen du Neues erschaffst, einem anderen gehören.
 
 
-![Lenin](/lenin.png)
+![Lenin](/lenin.avif)
 
 Wir befinden uns in einer traurigen Lage. Verlangst du bessere Arbeitsbedingungen, wirst du arbeitslos. Verweigerst du, deine Arbeitskraft zu verkaufen, wirst du obdachlos. Etwas zu verlangen ist schön und gut, doch wenn wir die Welt verändern wollen, müssen wir dafür kämpfen. Wir haben nichts als unsere Ketten zu verlieren. Doch wir haben eine Welt zu gewinnen!
 
@@ -52,7 +52,7 @@ Kein Wunder, dass die NASA vom Staat bezahlt werden muss und die Sowjetunion üb
 
 Sind die Schlauesten am reichsten? Nein, Einstein, Tesla, Hawking und viele weitere, die mit Abstand intelligentesten Menschen, waren alle nicht reich, einige sind sogar in Armut gestorben. Wie passt das zur Mär des einsamen, superreichen Genius? Einstein selbst war ein Sozialist und gegen den Kapitalismus. Aber egal, Elon Musk und Jeff Bezos, die in wohlhabenden Familien mit guten Verbindungen geboren sind, dürfen ungestraft unzählige andere ausbeuten und sind so zu den reichsten Menschen der Welt geworden.
 
-![Weltraum](/weltraum.jpg)
+![Weltraum](/weltraum.avif)
 
 ☭ СССР ☭
 
