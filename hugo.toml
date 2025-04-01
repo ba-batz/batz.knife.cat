@@ -1,0 +1,7 @@
+baseURL = 'https://batz.knife.cat/'
+languageCode = 'de-de'
+title = 'Batz'
+theme = 'gramokles'
+
+[markup.goldmark.renderer]
+unsafe = true

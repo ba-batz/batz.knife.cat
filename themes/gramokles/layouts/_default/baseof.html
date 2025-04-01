@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="{{ site.Language.LanguageCode }}">
+{{ partial "head.html" . }}
+<header>
+{{ partial "header.html" . }}
+</header>
+<article>
+<h1>{{ .Title }}</h1>
+{{ block "main" . }}{{ end }}
+</article>
+<!--https://github.com/ba-batz/batz.knife.cat-->
+</html>
