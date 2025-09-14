@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://batz.knife.cat/</loc></url><url><loc>https://batz.knife.cat/categories/</loc></url><url><loc>https://batz.knife.cat/creation/dvk/</loc></url><url><loc>https://batz.knife.cat/creation/eri/</loc></url><url><loc>https://batz.knife.cat/creation/getrichquick/</loc></url><url><loc>https://batz.knife.cat/ichiminternet/</loc></url><url><loc>https://batz.knife.cat/creation/kampf/</loc></url><url><loc>https://batz.knife.cat/creation/kraft/</loc></url><url><loc>https://batz.knife.cat/creation/loderndeflammen/</loc></url><url><loc>https://batz.knife.cat/creation/</loc></url><url><loc>https://batz.knife.cat/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creation/dvk/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creation/eri/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creation/getrichquick/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ichiminternet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creation/kampf/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creation/kraft/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creation/loderndeflammen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/creation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
