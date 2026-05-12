@@ -2,25 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/bewerbung/</loc>
+    <lastmod>2026-02-16T16:05:34+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gedichte/</loc>
+    <lastmod>2026-02-16T14:57:22+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-16T13:57:54+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/creation/dvk/</loc>
-  </url><url>
-    <loc>http://localhost:1313/creation/eri/</loc>
-  </url><url>
-    <loc>http://localhost:1313/creation/getrichquick/</loc>
-  </url><url>
-    <loc>http://localhost:1313/ichiminternet/</loc>
-  </url><url>
-    <loc>http://localhost:1313/creation/kampf/</loc>
-  </url><url>
-    <loc>http://localhost:1313/creation/kraft/</loc>
-  </url><url>
-    <loc>http://localhost:1313/creation/loderndeflammen/</loc>
-  </url><url>
-    <loc>http://localhost:1313/creation/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
