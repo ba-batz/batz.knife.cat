@@ -5,7 +5,7 @@ title: 'Kraft'
 ```
 > In meinem Kopf irren Gespenster,
 > die Gespenster der zu Tode Gequälten.
-> Zu Tode gequält von Machtbesessenen,
+> Zu Tode gequält von mit Macht besessenster,
 > Machtbesessenen, die den Menschen nicht zählten.
 
 > "Rache!", brüllt es in meinem Schädel.
