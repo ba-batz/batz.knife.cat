@@ -73,7 +73,7 @@ Kraft.
 44. Den Tag des Gerichtes fürchten.
 45. Vor der Hölle erschrecken.
 46. Das ewige Leben mit allem geistlichen Verlangen ersehnen.
-47. Den unberechenbaren Tod täglich vor Augen haben.
+47. __Den unberechenbaren Tod täglich vor Augen haben.__
 48. Das eigene Tun und Lassen jederzeit überwachen.
 49. Fest überzeugt sein, dass Gott überall auf uns schaut.
 50. Böse Gedanken, die sich in unser Herz einschleichen, sofort an Christus zerschmettern
